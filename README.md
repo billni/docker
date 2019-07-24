@@ -1,2 +1,1 @@
-# docker
-My docker repo
+# 学习Docker入门教程，按照案例编写了相关脚本
